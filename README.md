@@ -84,17 +84,10 @@ print(f"Mean Squared Error on the test set: {mse}")
 print(f"Root Mean Squared Error on the test set: {rmse}")
 Mean Squared Error on the test set: 49830096.85590839
 Root Mean Squared Error on the test set: 7059.76736897757
-git clone https://github.com/yourusername/machine-learning-examples.git
+git clone https://github.com/Hariom-Namdev/machine-learning-examples.git
 cd machine-learning-examples
 pip install pandas scikit-learn numpy
 python iris_exploration.py
 python iris_data_split.py
 python linear_regression_salary.py
 
-### Instructions:
-
-1. Replace `yourusername` with your GitHub username in the clone command.
-2. Save the content above in a `README.md` file in your project directory.
-3. Customize any sections as needed for your specific project.
-
-This `README.md` provides detailed explanations of each script and how to use them, offering clarity to anyone who might use or review your repository.
